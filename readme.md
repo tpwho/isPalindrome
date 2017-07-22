@@ -10,8 +10,8 @@ API Documentation [http://godoc.org/github.com/tpwho/isPalindrome]
 
 Example Usage:
 ```go
-import "github.com/tpwho/CheckPalindrome
+import "github.com/tpwho/isPalindrome"
 
-isPalindrome := isPalindrome.IsPalindrome("Is this sentence a palindrome?")
+result := isPalindrome.IsPalindrome("Is this sentence a palindrome?")
 ```
 Check example folder for another example usage.

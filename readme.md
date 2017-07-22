@@ -1,4 +1,4 @@
-## CheckPalindrome ##
+## isPalindrome ##
 Function to check if a given sentence is a palindrome or not. Returns bool true/false.
 
 Installing:
